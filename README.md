@@ -8,9 +8,11 @@
 
 ### 🙋‍♀️ Sobre mim
 
-Me chamo Ana Vitória, tenho 17 anos e sou de Itapetininga, São Paulo - Brasil. Atualmente, estou cursando o último ano do Ensino Médio e estudando programação Full Stack por conta própria, com foco em tecnologias modernas de back-end, front-end, mobile e inteligência artificial. Sempre fui apaixonada pela área de tecnologia e pretendo ingressar em uma graduação na área de desenvolvimento assim que concluir o Ensino Médio.
-
+Seja bem-vindo(a)!
+Me chamo Ana Vitória, tenho 17 anos e sou de Itapetininga, São Paulo – Brasil. Concluí o Ensino Médio e, no início do próximo ano, iniciarei a graduação em Engenharia de Software.
+Atualmente, estudo programação Full Stack de forma autodidata, com foco em tecnologias modernas de front-end e back-end. Sou apaixonada pela área de tecnologia e estou sempre em busca de novos aprendizados, desenvolvendo projetos próprios e explorando ferramentas para aplicar o conhecimento na prática.
 Estou constantemente buscando aprender mais, criando novos projetos e explorando ferramentas para colocar o conhecimento em prática. 
+
 
 📌 Caso queira saber mais sobre meus cursos e certificações:  
 🔗 [LinkedIn](https://www.linkedin.com/in/ana-vitória-a02a63310)
