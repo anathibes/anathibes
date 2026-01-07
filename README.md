@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="assets/cat.gif" width="200"/>
+  <img src="./assets/cat.gif" width="200"/>
 </p>
 
 
