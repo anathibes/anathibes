@@ -6,6 +6,13 @@
 
  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=140&lines=Seja+bem-vindo!;Desenvolvedora+FullStack+em+formação) 
 
+
+
+<p align="center">
+  <img src="assets/cat.gif" width="200"/>
+</p>
+
+
 ### 🙋‍♀️ Sobre mim
 
 Seja bem-vindo(a)!
