@@ -60,22 +60,7 @@ Tenho grande interesse em crescer profissionalmente na área de desenvolvimento 
 <br/>
 
 ---
-### 📊 Estatísticas GitHub
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AnaThibes&show_icons=true&include_all_commits=true&locale=pt-br&title_color=ff007f&text_color=00ced1&icon_color=ffd700&bg_color=150829" 
-  />
 
-  <img 
-    alt="Linguagens mais usadas" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaThibes&layout=compact&custom_title=Linguagens&langs_count=6&title_color=ff007f&text_color=00ced1&icon_color=ffd700&bg_color=150829"
-  />
-</p>
 
 
 
