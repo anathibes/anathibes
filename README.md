@@ -23,7 +23,7 @@ Atualmente, estudo programação Full Stack de forma autodidata, utilizando tecn
 Tenho grande interesse em crescer profissionalmente na área de desenvolvimento de software e estou aberta a oportunidades que contribuam para meu aprendizado e evolução na área.
 
 📌 Caso queira saber mais sobre meus cursos e certificações:  
-🔗 [LinkedIn](https://www.linkedin.com/in/ana-vitória-a02a63310)
+🔗 [LinkedIn] https://www.linkedin.com/in/ana-thibes/
 
 ---
 
