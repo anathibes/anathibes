@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Ana Thibes
 
 
-  **`FullStack Developer in Training`**
+  **`FullStack Developer`**
 
 
  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=140&lines=Seja+bem-vindo!;Desenvolvedora+FullStack+em+formação) 
